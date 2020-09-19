@@ -15,4 +15,9 @@ how to write markdown?, what i learned in the process
 11. Emogies -> 😄  💬
 12. Socilal icons and badges
 
-![Markdown PDF](/Markdown_example.pdf "PDF DEMO")
+# Images 
+![first](screenshot/Markdown_example_1.jpg) 
+![first](screenshot/Markdown_example_2.jpg)
+![first](screenshot/Markdown_example_3.jpg) 
+![first](screenshot/Markdown_example_4.jpg)
+![first](screenshot/Markdown_example_5.jpg) 
