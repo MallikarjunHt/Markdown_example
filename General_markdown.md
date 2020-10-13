@@ -7,80 +7,80 @@
 ###### H6
 ___
 <!-- next line -->
-# next line
-In order to move to next line leace 2 aditional space after the end of line  
+# Next line
+In order to move to next line leave 2 additional space after the end of line  
 
 like this  
 
 ***
 <!-- Font style -->
-# Text Style
-**Bold**  using two ```**```before and after a specific word  
-__Bold__ using two ``` __ ```before and after a specific word  
+# Bold
+**Bold**  using two ```**``` before and after a specific word  
+__Bold__ using two ``` __ ``` before and after a specific word  
 
 # Italics  
-*Bold*  using single ```*```before and after a specific word  
-_Bold_ using single ``` _ ```before and after a specific word  
+*Italicise*  using single ```*``` before and after a specific word  
+_Italicise_ using single ``` _ ``` before and after a specific word  
 
 ___
 <!-- Strick words -->
-# stricking words  
-Lets say you have wrote somthing like this and in the process a new feture has been added and you users need to be notice it without even comparing with previous version then ~~visually~~ we can represent it using these  (~~)  
+# Striking words  
+Lets say you have written something like this and in the process a new feature has been added and you need other users to notice it without even comparing with previous version then ~~visually~~ we can represent it using these  (~~)  
 ``` 
  ~~symbols~~ **Mark Down Syntax**
 ```     
 ___
 <!-- Ordere and unordered list -->
 # List
-1. ordered  
-* unordered  
-TO add ordered and un ordered list use `1.` and `*`   
+1. Ordered  
+* Unordered  
+To add ordered and unordered list use `1.` and `*`   
 Lets say you have to add  
 **Table of  Contents**  
-1. title
-2. Intreduction
-3. Architucture
+1. Title
+2. Introduction
+3. Architecture
     1. Micro Services
-    2. Servless computing
+    2. Serverless Computing
 4. Conclusion  
 To write beautiful contents table like this follow the syntax
 ```
-1. title
-2. Intreduction
-3. Architucture
+1. Title
+2. Introduction
+3. Architecture
     1. Micro Services
-    2. Servless computing
+    2. Serverless computing
 4. Conclusion
 ```
 ___
 <!-- Strick words -->
-# Links & images
-links are usefull when you need to write blogs/ when you need to redirect users to previous topics  
+# Links & Images
+Links are useful when you need to write blogs or when you need to redirect users to other topics  
 ```
 [title here](link here)
 ```
 
-Lets assume you need to add social links to make it more visule  
+Let's assume you need to add social media links to make it more visual  
 ```
-[![Title](link of the image)](redirecting link to your profilr)
+[![Title](link of the image)](redirecting link to your profile)
 ```
-for image use 
+For image use 
 ```
-![Title of the image](link to the image "to label the image use double cotes immediate after the link")
+![Title of the image](link to the image "to label the image use double quotes immediately after the link")
 ```
 ___
 <!-- Tables -->
 # Tables
-example  
+Example  
 |one|two|three|
 |---|---|---|
 |row1|value2|value3|
 
 well you can use this for pretty much anything  
-1. display table
-2. display images
-3. todo list and status
-4. project status  
+1. Display table
+2. Display images
+3. Todo list and status
+4. Project status  
 It`s left to your immagination
 
 ```
@@ -88,7 +88,7 @@ It`s left to your immagination
 |--- |--- |--- |
 |row1 |value2 |value3 |
 ```  
-#### you can use html table also
+#### You can use html table also
 ___
 <!-- Horizontal Rule -->
 # Horizontal Rule
@@ -112,15 +112,15 @@ ___
 ## to diclare variables  `var`
 
 ```
-use single back ticks to make it look like its a variable ` name to the variable`.
+use single back ticks to make it look like its a variable `name of the variable`
 ```
-## code block
-Surprice all thise time you might be wondering how to include code block we can do it two ways  
+## Code block
+So all this time you might be wondering how to include code blocks, we can do it two ways:
 
 1. \> this is single line 
 2. \``` for multiple lines
 
-### single line
+### Single line
 in oreder to put script related to installation procigure or command line like the line below use
 ```
 > npm install
@@ -133,11 +133,19 @@ specify language for syntax highliting
 for python just use ```python  \''' incluse these at the end to close the section
 ```
 ___  
-# Emogies
-follow the link bilow to know more  
+# Emojis
+You can even include emojis like these in the markdown
+:hugs: :grinning: :smiley:
+
+Emojis can be used by surrounding a valid emoji name with colons( : ) like this `:emoji-name:` For example, `:smiley:`
+
+
+Follow the link below to know more
+* [List of emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [Another list of emojis](https://gist.github.com/rxaviers/7360908)
 * [GitHub Emoji API](https://api.github.com/emojis) 
 * [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)  
-* [Emogies](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 
 # Socila Link
 [Badges](https://shields.io/)
