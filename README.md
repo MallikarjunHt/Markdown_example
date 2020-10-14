@@ -1,5 +1,7 @@
 # Markdown_example
 how to write markdown?, what i learned in the process  
+[Sandbox](https://codesandbox.io/s/epic-leavitt-4cwf6?file=/General_markdown.md)  
+[online editor](https://dillinger.io/)  
 
 # Table of Content
 1. Headings
@@ -20,4 +22,4 @@ how to write markdown?, what i learned in the process
 ![first](screenshot/Markdown_example_2.jpg)
 ![first](screenshot/Markdown_example_3.jpg) 
 ![first](screenshot/Markdown_example_4.jpg)
-![first](screenshot/Markdown_example_5.jpg) 
+![first](screenshot/Markdown_example_5.jpg)  
