@@ -1,4 +1,13 @@
 <!-- Headings -->
+# Headings
+```
+<h1> = #
+<h2> = ##
+<h3> = ###
+<h4> = ####
+<h5> = #####
+<h6> = ######
+```
 # H1
 ## H2
 ### H3
@@ -9,7 +18,7 @@ ___
 <!-- next line -->
 # next line
 In order to move to next line leace 2 aditional space after the end of line  
-
+after your text `  ` leave 2 char space and move to next line.  
 like this  
 
 ***
